@@ -11,6 +11,12 @@ git push -u origin main
 # to see branches
 git branch
 # to create new branch
-git checkout -b newbranchforuse
+git checkout -b new-branch-name
 # switching between branches
 git checkout brachname
+# to see the difference between branches
+git diff new-branch-name
+# to merge two branches
+git merge new-branch-name
+# to push from new branch
+git push -u origin new-branc-name
