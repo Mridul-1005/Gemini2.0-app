@@ -1,2 +1,3 @@
 # Gemini App clone
-Some descriptions
+Some description
+# Adding some features
