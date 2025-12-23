@@ -20,3 +20,5 @@ git diff new-branch-name
 git merge new-branch-name
 # to push from new branch
 git push -u origin new-branc-name
+
+Checking if git is working properly
